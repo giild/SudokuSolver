@@ -5,6 +5,9 @@
 		<item key="use_default_location" value="true"/>
 	</section>
 	<section name="org.eclipse.buildship.ui.wizard.project.import">
-		<item key="project_location" value="/Users/peter/Documents/giild/github/SudokuSolver"/>
+		<item key="project_location" value="/Users/peter/Documents/giild/github/SudokuSolver/JavaSolver"/>
+		<item key="apply_working_sets" value="true"/>
+		<list key="working_sets">
+		</list>
 	</section>
 </section>

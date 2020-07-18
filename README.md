@@ -8,3 +8,5 @@ Github repository for GiiLD Sudoku Solver challenge
 [https://www.giild.com/] GiiLD.com
 
 To view the full details of the programming challenge, visit the challenge link
+
+For the video of the livestream go to [https://www.youtube.com/channel/UC14T34NtyY0kktvkXTpMXPA]
